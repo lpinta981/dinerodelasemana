@@ -1,0 +1,24 @@
+{
+  "short_name": "Dinero de la semana",
+  "name": "Dinero de la semana",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F0F1F2",
+  "theme_color": "#F0F1F2",
+  "description": "Gestión del dinero de la semana."
+}
